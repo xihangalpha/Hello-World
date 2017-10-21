@@ -1,6 +1,6 @@
-# hello-world
+# Hello-World
 
-a start-up journey in github
+A start-up journey in github
 
 Hi Humans!
 
